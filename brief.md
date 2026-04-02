@@ -38,13 +38,13 @@ fanbasis.com
 ## Generated Copy
 
 ### Eyebrow
-FOR 9-5ERS TRAPPED IN JOBS THEY HATE
+FOR 9-5ERS READY TO LEAVE
 
 ### Headline
 Get a remote sales job and leave your boss behind in 8-10 weeks remote income in sales
 
 ### Subheadline
-You're stuck in a job that drains you every single day, your body hurts, and you know there's more out there. I show you exactly how to land a remote sales role and build income that actually scales.
+You're stuck in a job that drains you, hurts your body, and makes your family resent you. I'll teach you the sales skill that got me to $50k months so you can work remote, build real income, and actually enjoy your life.
 
 ### CTA
 Apply for the program
@@ -53,118 +53,146 @@ Apply for the program
 
 ## VSL Script
 
-Hey, I'm going to be straight with you. I used to be you. I was working the 9 to 5 as a carpenter, showing up every day feeling completely drained, my body hurting, wondering when life was actually going to start. I'd see people online living in Marbella, making real money, working from wherever they wanted, and I'd think that was just for other people. It wasn't for someone like me.
+Hey, listen. I'm going to be direct with you because you don't have time for me to dance around it.
 
-Then I decided to get a job in sales. Not because I wanted to be a salesman forever. I did it because I needed to learn a skill that actually pays, a skill that scales, a skill that nobody can take away from you. I spent about a year doing it remotely, learning everything, perfecting my craft. And within that year, I went from zero to making solid money. Then I stopped being a carpenter, moved to Marbella, and went all in on sales. That was five years ago.
+You're watching people on Instagram living the life you want. Beaches. Nice cars. Nice watches. Freedom. They're working from their laptop, making more money than your day job pays, and they answer to nobody. And you're sitting in a job you hate, answering to a boss who doesn't appreciate you, feeling like your body's falling apart.
 
-Since then, I've realised something. The skill I learned isn't just valuable for me. It's the most valuable skill you could possibly learn right now, especially if you're stuck where you are. And I've spent the last few years teaching other people exactly how I did it.
+I know exactly how that feels because I was you.
 
-Let me tell you what I'm seeing. There are thousands of people like you out there. Mid-20s, making over $70k a year, but they're absolutely miserable. They hate answering to a boss. They hate the feeling of not being appreciated, of not being worthy. Their body hurts from the stress. Their family relationships are falling apart. Their wife despises them. And they're desperate to change.
+I was a carpenter working a 9 to 5. Dead inside. My family hated the version of me that came home every day. Then I made a decision. I got a job in sales. Worked remote. Did it for about a year, learned the skill properly, and then I stopped trading hours for money. I moved to Marbella and went all in on sales. That was five years ago.
 
-So what do they do? They try crypto. They try other online businesses. They pick up more shifts at different jobs. They spin their wheels hoping something will click. And nothing does. Because they're not learning a real skill. They're just chasing quick fixes.
+Now I make $50k a month in commission. I don't have a boss. I don't have a job. I have a skill that makes me money whenever I want it.
 
-Here's the thing though. Most people who feel this way aren't actually broken. They're just in the wrong environment, doing the wrong work, without the right guidance. When I meet someone who's ready to actually change, ready to invest in themselves, ready to learn something that matters, that person almost always succeeds.
+Here's what I've realised: the problem isn't you. The problem is you've been trying the wrong things. Crypto didn't work. Those online business courses didn't work. Picking up extra shifts didn't work. Why? Because none of those actually teach you a skill that remote companies will pay you for.
 
-That's why I created this program. It's 1 on 1 coaching, group calls, and a community of people all going through the same thing. And the outcome is simple. You get a remote job in sales. Within 8 to 10 weeks, you're working remotely and you've left your job behind.
+But sales is different.
 
-Now, I know what you're thinking. Sales training? I've probably heard that before. Maybe you've tried it. Maybe it didn't work. That's because most sales training is garbage. It's generic, it's full of theory, and it doesn't actually teach you how to land the job or how to close deals that matter.
+Sales is the most valuable skill on the planet right now. Every company needs salespeople. Remote companies especially. And if you can sell, you can make $5k, $10k, $25k, sometimes $50k a month in commission. Not next year. Not in two years. In eight to ten weeks.
 
-What I teach you is the exact system I used. The scripts that actually work. The way to position yourself so companies want to hire you. The way to close deals once you're in the role. And most importantly, I hold you accountable every single day until you're out of that job and working remotely.
+That's exactly what I help people do. I help 9 to 5ers get a remote job in sales.
 
-Let me give you some proof. Sarah came in with zero experience. In her second month of the program, she made $10,000. Not in a year. In one month. Jordan started at $5,000 a month commission. Three months into the program, she's at $25,000 a month. Harry started at zero. After six months, he's making $50,000 a month in commission.
+Here's how it works. You come into a 1:1 coaching program with me. We're talking real coaching, not some video course where you watch and hope something sticks. I'm coaching you personally. You get group calls where you learn the exact system I use. You get a community of other people doing the exact same thing. And you get eight to ten weeks of my direct attention to make sure you actually land the remote sales job and start making real money.
 
-These aren't anomalies. These are regular people who were stuck in jobs they hated, who learned the skill, and who now have the lifestyle they actually want. The remote work. The freedom. The money. The ability to wake up and not feel dread.
+Let me show you what real looks like.
 
-Now, the investment is $4,000 USD. I know that might sound like a lot. But think about it this way. Sarah made $10k in month two. Jordan went from $5k to $25k monthly. That investment pays for itself in your first cheque. And unlike crypto or those other things you've tried, this is a skill you'll have for the rest of your life. You'll never go broke again.
+Sarah came to me starting from zero. She'd never sold anything. Second month in the program, she made $10,000. Not in a year. Not in three months. In her second month.
 
-Here's what happens when you apply. We have a conversation about where you are, where you want to be, and whether this is actually right for you. I'm not going to convince you to do something you're not ready for. But if you are ready, if you're serious about leaving that job, if you're tired of being tired, then this is exactly what you need.
+Jordan started making around $5,000 a month in commission. Three months into the program, she's at $25,000 a month.
 
-The program is 8 to 10 weeks. You get 1 on 1 coaching from me. You get access to group calls where you see what's working for other people. You get a community of people who are all in the trenches with you. And you get a clear roadmap to a remote sales job that pays.
+Harry came in at zero. Six months later, he's making $50,000 a month.
 
-I'm not going to lie to you and say it's easy. It's not. You're going to have to do the work. You're going to have to show up every single day. But if you do, the results speak for themselves. You get out of that job. You start working remotely. You learn the most valuable skill you could possibly have. And your life changes.
+These aren't anomalies. These are people who were exactly like you. Stuck in a job. Desperate for a way out. Willing to actually do something about it.
 
-So here's what I want you to do. Apply for the program. Tell me a bit about where you are and what you're looking for. We'll have a conversation, and if it's a fit, we'll get you started. If it's not, no hard feelings. But if you're ready to stop talking about change and actually make it happen, this is the move.
+Now I need to be honest about something. This is $4,000 USD. It's not cheap. I know you might be thinking you could try this yourself first. Here's the thing though. You've already tried yourself. You've tried crypto. You've tried other online businesses. You've tried side hustles. All of that cost you time and money you didn't get back. And you still don't have a remote sales job.
 
-Your life on the other side of this looks completely different. You're not answering to a boss. You're not dreading Monday morning. You're not watching your body fall apart from stress. You're working from wherever you want. You're making real money. You're actually fulfilled. And you know you'll never go broke again because you have a skill nobody can take away.
+Eight weeks with me, you do.
 
-That's what I've built for myself, and that's what I help people like you build every single day. So apply. Let's talk. And let's get you out of that job.
+Why? Because I've already made every mistake. I've already figured out what works and what doesn't. I've already built the playbook. All you have to do is follow it and let me coach you through the parts where you get stuck.
+
+That's the difference. You don't have to figure this out alone. You don't have to waste six months learning what I learned in five years.
+
+Look, I get it. You might be thinking, "I've done sales training before." Fine. But think about what you actually got from it. A bunch of theory? Scripts that don't work? A bunch of corporate nonsense?
+
+I'm not teaching you theory. I'm teaching you how to actually get hired by remote companies and how to actually close deals and make commission. Because I'm still doing it. Every single day. I'm not some guy who sold courses about sales. I'm making $50k a month in actual commission right now.
+
+So here's what happens next.
+
+You apply for the program. I'm going to qualify you. I only work with people who are serious. If you're not ready to actually change your life, this isn't for you. But if you're serious, we're going to get you started in the next cohort.
+
+Eight to ten weeks from now, you're going to have a remote sales job. You're going to have income that scales with your effort. You're going to know that you've learned a skill that will never leave you. You'll never go broke again.
+
+And honestly, that's the part people tell me they value most. Not just the money. But the security. The knowledge that no matter what happens, you can always sell. You can always make money.
+
+That's what I want for you.
+
+But you've got to apply first. You've got to be willing to say yes to actually changing your situation instead of thinking about it for another six months.
+
+So go ahead. Click the button. Apply for the program. Let's get you out of that job and into a life you actually want to live.
+
+I'll talk to you soon.
 
 ---
 
 ## Email Follow-Up Sequence
 
 Email 1:
-[subject] You don't have to stay in that job
+[subject] You watched the video. Now what?
 [body] Hey,
 
-Thanks for applying. I know you're probably exhausted from your 9 to 5. I was there too. The thing is, leaving doesn't have to take years of planning or hoping something changes.
+Thanks for watching. I know you're sitting on this decision. Four grand is real money, and I get it. But I want to ask you something.
 
-Sarah went from zero to $10k in her second month. Jordan went from $5k to $25k monthly. Harry is now at $50k a month in commission.
+How much longer are you willing to stay in that job? How much longer can your body, your family, your sanity actually take it?
 
-They all had one thing in common. They stopped waiting and started learning a skill that actually pays.
+Because here's what I know. The people who applied and went through the program? Sarah, Jordan, Harry? They all had the same doubt you're having right now. They were all thinking the same thing. And they all clicked apply anyway.
 
-Let's have a conversation about getting you out.
+Eight weeks later, they had remote sales jobs.
 
-Reply to this email and let me know when you're free to chat.
+I'm not saying this to pressure you. I'm saying this because you need to know the cost of waiting is way higher than the cost of the program.
 
-Cheers
+When you're ready to move, apply.
+
+—
 
 Email 2:
-[subject] This is how Harry got to $50,000 a month
-[body] Harry came to me at zero.
+[subject] Three people. Zero to $50k. Here's how they did it.
+[body] Hey again,
 
-No sales experience. No remote job lined up. Just someone who was completely done with his old life.
+I want to show you exactly what's possible. Not theory. Real results from real people who started exactly where you are.
 
-I taught him the exact system I used to go from carpenter to $50k a month remotely. Six months later, he's there.
+Sarah: $10,000 in her second month. Zero sales experience when she started.
 
-Sarah did it in two months. Jordan in three.
+Jordan: Started at $5k a month. Three months later, $25k a month.
 
-They all learned the same skill. The same scripts. The same way to position themselves so companies actually want to hire them.
+Harry: Zero to $50k a month in six months.
 
-The only difference between them and the people still stuck in their 9 to 5 is that they actually invested in themselves.
+You're probably thinking one of two things. Either "that's not possible" or "that's not possible for me." I used to think both of those things too. Then I actually built it and then I actually coached other people to do it.
 
-You can be next.
+It's possible. And it's possible for you.
 
-Let's talk about making it happen.
+The only question is whether you're ready to stop thinking about your life and actually change it.
+
+Apply when you are.
+
+—
 
 Email 3:
-[subject] Spots are filling up
+[subject] The spots are filling up
 [body] Hey,
 
-I'm running this program again, and we're only taking a certain number of people in the next cohort.
+Just a heads up. Spots for the next cohort are filling. I only work with a small group at a time because I actually coach people 1:1. I'm not running a course factory.
 
-I don't do this to be exclusive. I do it because I want to make sure everyone gets my full attention and actually gets the results.
+If you've been sitting on this, now's the time to move.
 
-If you're serious about leaving your job within 8-10 weeks and building a remote income in sales, now's the time.
+You can either apply and get into the program and have a remote sales job in eight to ten weeks. Or you can think about it for another month, another three months, another year. Your choice.
 
-Spots fill up fast.
+But the longer you wait, the longer you stay in that job that's killing you.
 
-Let's get on a call and see if this is right for you.
+Apply here. Let's do this.
 
-Apply here or reply to this email.
+—
 
 ---
 
 ## Ad Angles
 
-You've tried crypto, tried other online businesses, tried extra shifts. Nothing stuck. That's because you were never learning a real skill. I teach the one skill that actually scales and pays.,Sarah made $10k in month two. Jordan went from $5k to $25k monthly. Harry is at $50k a month. They all did it by learning the same remote sales system I used to escape my 9 to 5.,Your wife despises you. Your body hurts. Your boss owns your time. But you don't have to stay there. Within 8-10 weeks, I can show you how to land a remote sales job and leave it all behind.,You're in your mid-20s making good money, but you're completely unfulfilled. You see people living the life online and wonder why it's not you. It's not luck. It's a skill. And I'll teach it to you.,Most sales training is theory and generic scripts. I teach the exact system that got me from carpenter to $50k a month remotely. My clients aren't hypothetical. They're making real money right now.
+I help 9-5ers get remote sales jobs in 8-10 weeks. Sarah made $10k in her second month. Jordan went from $5k to $25k per month. Harry hits $50k monthly. Your boss is replaceable. Your skill isn't.,Stuck in a job that makes you feel worthless? I went from carpenter to $50k a month in commission. Now I show other people how. 1:1 coaching, group calls, real results. Apply if you're serious about leaving your 9-5.,You've tried crypto. You've tried side hustles. None of them paid off. But sales does. If you can learn to sell, you can make $5k-$50k a month remote. I've done it for five years. I'll show you how.,Your body hurts. Your family hates your job. Your boss drains you. A remote sales job changes all of that. Eight weeks. That's how long it took Harry to go from zero to $50k monthly commission.,Sales is the only skill that guarantees you'll never go broke. Remote companies will pay you $5k, $10k, $25k a month to sell for them. I teach the playbook I use. Apply for 1:1 coaching and group calls.
 
 ---
 
 ## Result Cards
 - **$10,000** — Sarah: earned in her second month, started from zero
-- **$25,000** — Jordan: monthly commission after three months in the program
-- **$50,000** — Harry: monthly commission after six months, started at zero
+- **$25,000** — Jordan: per month in commission after three months
+- **$50,000** — Harry: per month in commission after six months
 
 ## FAQ / Objection Handling
-**Q: I've had sales training before. Why is this different?**
-A: Most sales training teaches you theory or generic scripts that don't work. I teach you the exact system I used to go from carpenter to $50k a month remotely, and my clients are proof it actually converts.
+**Q: I've done sales training before. Why is this different?**
+A: Most sales training teaches you theory or outdated scripts. I teach you the exact remote sales playbook I've used for five years to build a $50k per month business, then I coach you 1:1 until you're actually landing remote jobs and making commissions.
 
-**Q: Is $4000 too much money to invest?**
-A: Sarah made $10k in month two alone. Jordan went from $5k to $25k monthly. If you're serious about leaving your job within 8-10 weeks, this investment pays for itself in your first commission cheque.
+**Q: Four grand is a lot of money. Can I try this myself first?**
+A: You've already tried crypto, side hustles, and extra shifts. That's cost you time, energy, and money you didn't get back. Eight weeks with direct coaching gets you a remote sales job instead of months of guessing.
 
-**Q: I think I'm just going to try this by myself first.**
-A: You've probably already tried that path with crypto, other online businesses, or extra shifts. The problem isn't you or the script. The problem is you need someone who's actually done it to show you the exact steps and hold you accountable.
+**Q: I don't think it's me. I think my script is the problem.**
+A: The script matters, but not as much as you think. I've trained people who had terrible scripts and they still made $5k-$50k months once we fixed their mindset and delivery. The problem is usually how you're selling, not what you're saying.
 
-**Q: Do you think I'm the right fit for this?**
-A: If you're in your mid-20s, making over $70k a year, and you hate your job enough to actually do something about it, then yes. This is for people ready to move, not people who want to think about it.
+**Q: Is this really going to work for someone like me?**
+A: If you're in your mid-20s, making over $70k, hate your job, and actually want to change your life, then yes. I've done this five years. Harry, Jordan, and Sarah all started exactly where you are.
