@@ -38,13 +38,13 @@ fanbasis.com
 ## Generated Copy
 
 ### Eyebrow
-REMOTE SALES JOB IN 8-10 WEEKS
+REMOTE SALES JOBS FOR 9-5 WORKERS
 
 ### Headline
-Leave your job. Start selling remote. Remote income without the 9-5
+Leave your job in eight weeks. Remote sales income, no boss
 
 ### Subheadline
-You go from stuck in a job that drains you to making real money selling remotely, with clients who actually value your work. I show you exactly how to land the role and close deals that pay.
+You go from stuck in a job that drains you to earning real commission checks from home. We show you the exact path because I walked it myself five years ago.
 
 ### CTA
 Apply for the program
@@ -57,69 +57,127 @@ Apply for the program
 
 ---
 
-You're scrolling through Instagram at 11 PM on a Tuesday night. Your lower back is throbbing. Your wife is already in bed, and you know she's frustrated because you came home irritable again. Three more hours of sleep before the alarm goes off, and you do it all over again.
+You're sitting at your desk right now. Maybe it's 2 PM on a Wednesday. You've got six more hours until you can leave, and your lower back is already killing you from sitting in this chair for five hours straight.
 
-You see a post from someone your age. They're on a beach somewhere. Not a vacation. They're working from a laptop. They made more money this month than you make in two. And they're not stressed about it. They're not checking their phone every five minutes because their boss needs something. They're just... living.
+Your boss just sent you a message asking why that report wasn't done yet. You stare at it for a second, feel that familiar knot in your stomach, and realize you don't care anymore. But you can't say that out loud because you need the paycheck. So you just reply "working on it" and keep your head down.
 
-You've thought about that image a thousand times this week. Because you know it's possible. You can feel it's possible. But you also know that every time you've tried to make a move, something stops you. And right now, you're stuck between wanting that life badly and not knowing if you're actually the type of person who can get there.
+Meanwhile, you're scrolling Instagram on your lunch break and you see someone your age posting from Bali. Or Marbella. Or some beach town you've never been to. They're holding a coffee with the ocean behind them. No office. No boss. No one telling them what to do. Just them, and what looks like infinite freedom.
 
-I get it because I was there too. I was working as a carpenter, bent over, my body was done, and I was making decent money but I hated every single day of it. I got into sales, started doing it remote, and within a year I knew I had the skill. Five years later, I've built a full remote income in sales and I've helped dozens of people do the same thing. People like you. People making over 70k a year who realized that more money at a job they hate isn't the answer.
+And you think: how is that possible? How are they doing that while I'm here?
 
-The reason most people stay stuck isn't because they're not smart enough or talented enough. It's because they've never actually learned the one skill that makes remote sales income possible. They skip straight to trying to build a business or launch some online thing, but they're missing the foundation. Sales is the foundation. Sales is the skill that pays your bills, that builds your confidence, and that finally gives you the leverage to walk away from a boss who doesn't respect your time.
+I know that exact feeling because I was sitting in that same chair five years ago.
 
-But here's what I see happen to guys in your position over and over.
+I spent years in a job that made me feel small. My body hurt. My family was frustrated with me because I was always tired and irritable. The worst part? I felt unworthy. Like I wasn't capable of anything better. I'd come home drained, and that feeling followed me everywhere. But I was making decent money. Seventy grand a year. So I couldn't complain, right?
 
-You hate your job. Your body is telling you it hates your job. Your wife is telling you she hates what this job is doing to you. And you're desperate enough to try something. So you buy a course. Or you watch YouTube videos about dropshipping. Or you throw money at crypto. Or you pick up more shifts at different jobs, thinking volume will save you. Nothing sticks. Nothing works. And six months later, you're more frustrated than you were before because now you've spent money and time and you're still in the same chair, at the same desk, answering to the same person.
+Except I did complain. Every single day.
 
-I watched a guy do this exact thing. Let's call him Marcus. He was making 85k a year in an office job. Hated it. Bought a digital marketing course. Watched it for three weeks, got overwhelmed, stopped. Then he tried cryptocurrency. Lost 2k. Then he thought maybe if he just worked more hours, picked up weekend shifts at another job, he could save enough to figure something out. He was working 65 hours a week. His marriage was on the edge. And he still didn't have the skill that would actually get him out. He had the desire. He just didn't have the mechanism.
+Then I made one decision that changed everything. I got into sales. Remote sales. And within a year, I was making money I never thought possible. I went from that desk job to moving to Marbella and going all in on building a real income online. That was five years ago. Now I coach people who are exactly where I was, and I've watched them get out in weeks instead of years.
 
-The difference between staying stuck and actually getting out comes down to one thing: you need to learn remote sales in a way that actually works. Not theory. Not motivational speeches. Not a course you watch alone at midnight. You need direct coaching, real feedback on your actual sales conversations, and a community of people doing exactly what you're trying to do so you can see it's actually possible.
+---
 
-That's what we built. It's a 1-on-1 coaching program plus group calls plus a community. Over eight to ten weeks, you're going to learn how to get a remote sales job, how to perform in that job well enough to earn serious commission, and how to build the skill that means you'll never go broke again. This isn't about some magical system. It's about learning the mechanics of how remote sales actually works, applying that directly to your own conversations, and having someone watch your back while you do it.
+The real problem isn't that you're lazy or unmotivated. It's not that you lack ambition. The real issue is that you've been taught your entire life that the only way to make serious money is to trade hours for dollars in someone else's system. School, college, job, retirement. That's the path. And within that system, there's a ceiling.
 
-The reason this works is because I'm not teaching theory. I did this exact thing myself. I've coached people through this. And I've watched them hit the other side. So in the program, you get direct 1-on-1 coaching where we look at your real sales conversations, we identify what's actually stopping you from closing, and we fix it. You get group calls where you see other people just like you handling the same objections, making the same mistakes, and breaking through them. And you get access to a community where you can ask questions, get advice, and see proof every single day that this works for people who started exactly where you are.
+You hit that ceiling around 70, 80, maybe 90 grand a year if you're good at politics. But that's it. And more importantly, you can never leave. You stop showing up, the money stops. Your body breaks down from the stress and the sitting and the lack of control over your own time. Your relationships suffer because you're not present. You're just surviving.
 
-Within eight to ten weeks, you're going to have a remote sales job. Not a side hustle. Not a course to promote. An actual job where you can work from anywhere. You'll be making commission. Real money. And because it's remote, you can move. You can get out of the city that costs too much. You can go somewhere you actually want to be. You can spend your lunch break walking instead of sitting in a break room. You can be home when your wife gets home. You can stop answering to someone who doesn't value you and start building something where you value yourself.
+That's the structure you're trapped in. Not your ability. Not your intelligence. The structure itself.
 
-That's the life. Not some abstract "freedom." I mean actual freedom. Freedom to go to the beach on a Tuesday if the work is done. Freedom to stop checking your phone every two minutes because you're not stressed about your job. Freedom to look at your wife and know that you're the man she married again, not the exhausted, irritable version of you that a 9-to-5 creates. Freedom to think about that fancy watch because you actually earned it, not because you're fantasizing about it on Instagram.
+---
 
-Here's what you actually get in the program.
+I know you've tried things to escape this. A lot of people have.
 
-You get my direct coaching. One-on-one. Every week, we're looking at your real sales calls, your real objections, your real numbers. I'm going to show you exactly what's stopping you so that you can see it clearly and fix it. Not theory. Actual feedback on actual conversations.
+You probably looked at crypto. You saw the stories about people making six figures from nothing, and you thought maybe that was the move. So you put some money in. Watched it for a few weeks. Got bored or scared or both, and then it crashed. That's not a business. That's gambling.
 
-You get the sales framework that I've tested and used and taught to dozens of people. It's the specific way to structure a sales conversation so that you're not pushy, you're not weird, and the person on the other end actually wants to move forward. So that you can stop sounding like every other desperate salesperson and start sounding like someone who knows what they're doing.
+Then maybe you looked at other online businesses. Drop shipping. E-commerce. Affiliate marketing. You saw the ads, watched the YouTube videos, bought the course. You spent your evenings working on it for a few weeks while you were already exhausted from work. Nothing happened. So you stopped.
 
-You get weekly group coaching calls where you see people at different stages. Some are just starting. Some are landing the job. Some are closing five figures a month. You're in the room with all of them. You ask your questions. You hear their questions. You see what's possible. So that you can stop feeling isolated and stop thinking you're the only one who's struggling.
+Or maybe you just picked up more shifts. Worked weekends. Thought if you just made more money per month, everything would feel better. It didn't. You were just more tired.
 
-You get a private community where people are posting wins daily. Someone just landed their first remote sales job. Someone just closed a 15k commission deal. Someone just told their boss they're done. You're in that community. You can ask anything. You can celebrate with people who actually get it. So that you can stay motivated and keep moving even on the days when you want to quit.
+The problem with all of those things? They're not real. They don't have proven demand. No one's paying you guaranteed money to show up and perform. You're either gambling, or you're guessing, or you're working harder for the same result.
 
-You get the exact job boards, the scripts, the messaging frameworks, and the pitch angles that actually work for getting hired in remote sales in 2024. Not outdated stuff. Not generic advice. The actual things that are working right now. So that you can apply for jobs with confidence and actually get callbacks.
+---
 
-And you get my personal accountability. I'm going to track your progress. I'm going to know when you're slowing down. I'm going to push you when you need it and support you when you're doubting yourself. So that you actually finish what you start instead of fading out in week three like you did with the last thing you tried.
+Let me paint you a picture of what happened when I tried the wrong approach.
 
-Now, let me show you what this actually looks like when someone does the work.
+I was sitting at my kitchen table at 11 PM on a Friday night. I'd been trying to build this online thing for three months. No sales. No real income. I had a spreadsheet tracking all my efforts, all my hours, and the money wasn't there. Zero.
 
-Sarah came into the program at zero. No sales experience. She was working a job she hated, making okay money but completely unfulfilled. Within her second month in the program, she made 10,000 dollars. Not from me. From actual sales commissions on deals she closed herself. She had the framework, she had the coaching, she practiced the conversations, and the money followed.
+I was more tired than I'd ever been. I'd go to my job during the day, come home, eat something quick, then work on this "business" until midnight. Then I'd wake up at 6 AM and do it again. My girlfriend at the time asked me why I was doing this, why wasn't it working, and I didn't have an answer.
 
-Jordan started the program making around 5,000 dollars a month in commission at her existing job. She wasn't happy. She wanted to move. Within three months in the program, she's making 25,000 dollars a month. That's a 20,000 dollar per month increase in three months. She got the coaching, she tightened her approach, and her numbers doubled.
+The reason it wasn't working? Because I was trying to sell something nobody actually needed. I was betting on something with no real demand. And I was doing it alone in my apartment with no feedback, no one to tell me I was going in the wrong direction.
 
-Harry started at zero. Six months into the program, he's making 50,000 dollars a month in commission. Think about what that changes in your life. Think about the options that opens up. He was exactly where you are. He was stuck. Now he's not.
+That's the wrong approach. That's the path that leads to quitting.
 
-Now I know you might have some concerns. Let me address them directly.
+---
 
-Some of you are thinking: "I've had sales training before and it didn't work." I hear this all the time. And the reason most sales training fails is because it's generic. It's built for a room full of people, so nobody gets the specific coaching they need. In this program, you get 1-on-1 coaching. I'm watching your actual calls. I'm seeing what's actually stopping you. It's not about learning sales in general. It's about fixing your specific block. Jordan told me when she started that she'd done sales training before and it didn't click. The difference was the direct feedback on her actual conversations. That's what changed it.
+The right approach is completely different. It's what I call the Demand-First Model.
 
-Some of you are thinking: "Maybe I should just try this myself first and see if I can figure it out." I get it. It feels safer. You don't want to spend the money if you're not sure. But here's the thing. Every day you're figuring it out on your own, you're still at your job. Your back still hurts. Your wife is still frustrated. You're still not living the life you see online. Harry thought the same thing. He tried to learn on his own for a month. Wasted time. Got nowhere. Came into the program. Six months later, 50k a month. The cost of waiting and doing it wrong is way higher than the cost of getting coached and doing it right.
+Instead of creating a product and hoping someone buys it, you start by selling something that's already in massive demand. Sales positions. Remote sales specifically. Companies are desperately hiring remote sales people right now. Like, they're paying ridiculous commissions because they need people who can actually close deals.
 
-Some of you are thinking: "I don't think it's me, I think it's the script I'm using. If I just find the right script, the sales will come." This one is subtle but important. Scripts don't close deals. Belief does. Understanding does. The ability to listen and adapt does. Sarah thought she needed a different script when she started. What she actually needed was to understand how a sales conversation actually flows. Once she got that understanding, every script worked. The script isn't the problem. Your foundation is.
+Here's the mechanic: You learn a real, proven sales skill set. Not some gimmick script or manipulation tactic. Real selling. How to understand what someone actually needs, how to position what you offer, how to close the deal. Then you go get hired by companies that are already making millions. You don't build a business from scratch. You leverage existing demand, learn the skill, make real money immediately, and then once you've mastered it and you've got income flowing, you can take those skills anywhere.
 
-I'm going to be direct with you. The investment in this program is four thousand dollars. That's not cheap. I know that. But I also know that in your first month in a remote sales role, if you're performing at the level I expect you to be, you're making that back in commission. Jordan made 25k in three months. Harry made 50k a month. Sarah made 10k in her second month. The money is there. You just need to know how to get it.
+That's the difference. You're not betting on something. You're performing a skill that's universally valued and getting paid for it from day one.
 
-What happens next is simple. You apply. We'll have a quick call to make sure you're the right fit and to answer any questions you have. If we're both in, you start immediately. Your first coaching call is on the calendar. You're in the community. You start seeing what's possible. And over the next eight to ten weeks, your life changes. Not someday. This year.
+---
 
-You're going to walk away from a job that's been draining you. You're going to have the skill that means you'll never go broke again. You're going to have the flexibility to live the life you actually want to live. And you're going to know that you did it. Not because you're special. Because you finally learned the one skill that actually matters.
+In eight to ten weeks, you're not sitting at that desk anymore.
 
-Don't spend another month in a job that makes you hate yourself. Don't let another season go by watching other people live the life you want. You know what you need. You know you need a coach who's done this and who can show you the way. Apply now. Let's talk. I'll see you on the other side.
+You're waking up whenever you want. Maybe at 6 AM because you're genuinely excited about the day. Maybe at 8:30 because you can. You grab a coffee, and you're not checking your phone in a panic wondering what your boss said while you were sleeping. You're logging into your remote position. Maybe it's from your apartment. Maybe you've moved closer to the coast by then.
+
+You're taking calls with clients during the day, but there's no one breathing down your neck. No performance reviews. No corporate politics. Just you, your skill, and your ability to close deals. And every time you close a deal, you make money. Real money. Not a salary that's been decided by someone else. Money that scales with your effort.
+
+Your body doesn't hurt anymore because you're not sitting in that exact same chair under that exact same fluorescent light. Your wife or girlfriend or family members actually see you again because you're present. You're fulfilled because you're building something real, not just passing time until 5 PM.
+
+And here's the part that changes everything: you now have a skill that's worth money anywhere in the world. That's your insurance policy. You will never be broke again.
+
+---
+
+Here's what you get in the program.
+
+First, you get a one-on-one coaching relationship with me. That means real, personalized feedback on your sales conversations, your approach, your messaging. Not some generic course where you watch videos and hope it lands. So that you can get direct feedback on what's actually working or not working, and adjust in real time instead of spinning your wheels for months.
+
+Second, you get access to the group calls. We run these weekly, and they're where people share what they're doing, what's working, what they're struggling with. You hear real people solving real problems. So that you can steal the approaches that are working for people ahead of you and avoid the mistakes you would have made.
+
+Third, you get the community. This is people who are exactly where you are, going through exactly what you're going through. Remote workers who hate their jobs. People who want out. People who are already starting to make real money. So that you don't feel alone in this process and you can get support and accountability from people who get it.
+
+Fourth, you get access to the actual job board and placement help. This isn't theoretical. You'll know exactly which companies are hiring, what they're paying, and how to position yourself to land the role. So that you're not spending weeks submitting resumes to random job postings.
+
+Fifth, you get the sales framework and scripts. The exact approach that works. Not manipulation. Not tricks. The actual framework that closes deals consistently. So that you can go into conversations confident and come out with commissions.
+
+---
+
+Sarah came into the program with zero sales experience. Zero remote experience. She was making $65,000 a year in a job she was terrified of losing. In her second month in the program, she made $10,000 in commission alone. That's more than her entire monthly salary in one month.
+
+Jordan was in a similar spot. She started making around five grand a month in commission once she landed her first remote sales role. Three months into the program, she's at $25,000 a month. Three months.
+
+Harry came in with nothing. Started at zero, exactly like Sarah. Six months in the program, he's making fifty grand a month in commission. Fifty thousand dollars a month.
+
+These aren't exceptional people with special talents. They're people like you who were stuck in that same job, feeling that same desperation, and they took action.
+
+---
+
+Now, I know you might have some pushback here, and that's fair. Let me address the ones I hear most.
+
+First: "This is too much. I'm not sure I'm ready for this."
+
+I get it. Four grand feels like a lot. But Sarah said the exact same thing. She was terrified. She thought "There's no way this is worth it. I'm not good at sales." Then she made ten grand in her second month. She's now at a point where she's making more in a single week than she was making in a month at her old job. She told me the only regret she has is that she didn't do it sooner.
+
+Second: "I've had sales training before. Why is yours different?"
+
+This is the real question. Most sales training teaches you manipulation tactics or scripts that sound robotic and don't actually work. Jordan told me she'd taken three different sales courses before joining us. She said they all felt fake and she could never actually use them. What changed for her was learning the actual framework of how selling works. Not tricks. How to understand what someone needs and position yourself as the solution. That's what got her from five grand to twenty-five grand in three months. Not tricks. Framework.
+
+Third: "I think I'm just going to try this myself first. I don't need help."
+
+This is the one that costs people the most time. Harry said this exact thing. He told me he was going to apply for remote sales jobs on his own first, learn the ropes, then maybe come back if he needed help. He spent three weeks applying to jobs with no callbacks. Three weeks wasted. The moment he joined and we helped him position his resume and his pitch, he landed a role within days. He didn't need to fail first. He just needed guidance so he didn't fail at all.
+
+---
+
+Here's what happens next.
+
+You're going to book a call with me. Not a sales call where I'm trying to close you. An actual strategy session where we talk about your situation specifically. Where you are now, what you've tried, what's actually holding you back. So that when you get on that call, you know if this is the right move for you or not.
+
+If it is, you get access to everything immediately. First group call is this week. First one-on-one coaching session is scheduled within 48 hours. You start getting placed on job opportunities right away.
+
+The reason I'm saying this with urgency isn't because I'm trying to manipulate you. It's because we cap enrollment. We can only take on so many people in a cohort so that each person actually gets the attention and feedback they need. We're currently at capacity through next month. There are only three spots left for this cohort before we close enrollment. So if this is something that resonates with you, the window is actually now.
+
+This is your move. Book the call. Let's talk about whether this makes sense for you.
 
 ---
 
@@ -133,24 +191,24 @@ Don't spend another month in a job that makes you hate yourself. Don't let anoth
 
 ## Ad Angles
 
-Your boss does not care about your dreams. A remote sales job does not either, which is why it pays.,You tried crypto. You tried side hustles. You tried more shifts. None of them worked because none of them teach you a real skill. Sales does.,Harry made $50,000 a month in commission. He started at zero. It took six months. Your next job does not have to look like your last one.,Your body hurts because you are stuck. Your family is frustrated because you are frustrated. A remote sales income changes both of those things.,You want the lifestyle. You want the beach days and the freedom and the money. Sales is how you actually get there, not in five years, in weeks.
+You hate your boss. Remote sales gets you away from that forever.,Your body hurts from the job. Commission-based remote work fixes the burnout.,Sarah made 10k in month two. You could be next.,Tried crypto, tried other businesses, tried more shifts. Sales actually works.,I left carpentry for sales five years ago. Now I teach others the same path.
 
 ---
 
 ## Result Cards
-- **$10,000** — Sarah: Made $10,000 in her second month starting from zero
-- **$25,000** — Jordan: Went from $5,000 to $25,000 per month in three months
-- **$50,000** — Harry: Built to $50,000 monthly commission in six months
+- **$10,000** — Sarah: Made this in her second month starting from zero
+- **$25,000** — Jordan: Now earning this monthly in commission after three months
+- **$50,000** — Harry: Reached this monthly commission level in six months
 
 ## FAQ / Objection Handling
 **Q: I have had sales training before. Why is this different?**
-A: Most training teaches you theory. I teach you how to actually land remote sales roles and close deals for commission. Harry went from zero to $50,000 a month in six months because he learned the skill that actually matters, not another framework.
+A: Most training teaches you theory. This is 1-on-1 coaching where I show you the exact remote sales systems that work now, plus group calls and community. Harry started at zero and hits 50k monthly in six months because he got real implementation, not lectures.
 
-**Q: Four grand feels like a lot. Is it worth it?**
-A: Jordan paid for the program and made $5,000 in month one, then scaled to $25,000 monthly. Most people drop $4,000 on things they never use. This pays for itself in the first month.
+**Q: This costs too much. Can I just try this by myself first?**
+A: You could, but you will waste months figuring out what Sarah learned in week two. She made 10k in her second month because she had direct guidance on what actually converts. Solo costs you time and lost income.
 
-**Q: I think I should try this on my own first.**
-A: You have tried on your own. That is why you are here. The difference between someone making $50,000 a month like Harry and someone still stuck is the roadmap and accountability. That is what you get.
+**Q: I think the problem is my script, not my skills.**
+A: The script matters, but your approach matters more. Jordan went from 5k to 25k monthly in three months not because she changed scripts but because she changed how she sells. We fix both.
 
-**Q: I don't think it is me. I think the script is the problem.**
-A: The script matters, but execution matters more. Sarah started with no experience and made $10,000 in month two because she learned how to sell, not just what to say. That skill transfers forever.
+**Q: Is this actually just for sales jobs or remote work in general?**
+A: Remote sales jobs specifically. That is where the real commission money is and where you can actually leave your 9-5. This is not about picking up shifts or side gigs.
