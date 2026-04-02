@@ -3,14 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>You hate your boss. Your body hurts. Your family is exhausted from watching you suffer through a job that drains everything out of you. But you keep scrolling Instagram seeing people living on beaches, driving cars you want, wearing watches you deserve. That life is not reserved for other people. It is available to you right now through one specific skill that takes 8 to 10 weeks to master. — Elevate Operations</title>
+  <title>Leave your job. Start selling remote. — Elevate Operations</title>
   <link rel="icon" type="image/png" href="https://ellisdeakinn-boop.github.io/elevate-funnel/favicon.png" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
       --bg: #050508; --surface: #0d0d14; --border: #1e1e35;
-      --accent: #2d5016; --accent2: #d4af37; --neon: #2d5016;
-      --neon-glow: #2d501666; --text: #f0f0f0; --muted: #8888aa; --max: 780px;
+      --accent: #2d5a3d; --accent2: #d4af37; --neon: #2d5a3d;
+      --accent-rgb: 45,90,61; --accent2-rgb: 212,175,55;
+      --neon-glow: #2d5a3d66; --text: #f0f0f0; --muted: #8888aa; --max: 780px;
     }
     html { scroll-behavior: smooth; }
     body {
@@ -20,14 +21,14 @@
     }
     body::before {
       content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-      background-image: linear-gradient(rgba(191,95,255,0.05) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(191,95,255,0.05) 1px, transparent 1px);
+      background-image: linear-gradient(rgba(var(--accent-rgb),0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(var(--accent-rgb),0.05) 1px, transparent 1px);
       background-size: 48px 48px; pointer-events: none; z-index: 0;
     }
     body::after {
       content: ''; position: fixed; top: -20%; left: 50%; transform: translateX(-50%);
       width: 900px; height: 600px;
-      background: radial-gradient(ellipse at center, rgba(191,95,255,0.1) 0%, transparent 70%);
+      background: radial-gradient(ellipse at center, rgba(var(--accent-rgb),0.1) 0%, transparent 70%);
       pointer-events: none; z-index: 0;
     }
     body > * { position: relative; z-index: 1; }
@@ -36,24 +37,24 @@
     .reveal-delay-1 { transition-delay: 0.08s; } .reveal-delay-2 { transition-delay: 0.18s; }
     .reveal-delay-3 { transition-delay: 0.28s; } .reveal-delay-4 { transition-delay: 0.38s; }
     .spots-bar {
-      background: linear-gradient(90deg, #2a0055, #5500aa, #2a0055); background-size: 200% 100%;
-      animation: shimmer 5s linear infinite; color: #e0b8ff; text-align: center;
+      background: linear-gradient(90deg, var(--accent2), var(--accent), var(--accent2)); background-size: 200% 100%;
+      animation: shimmer 5s linear infinite; color: #fff; text-align: center;
       padding: 10px 20px; font-size: 13px; font-weight: 600; letter-spacing: 0.04em;
-      border-bottom: 1px solid rgba(191,95,255,0.25);
+      border-bottom: 1px solid rgba(var(--accent-rgb),0.25);
     }
     .spots-bar span { color: #fff; font-weight: 800; }
     @keyframes shimmer { 0% { background-position: 0% 0; } 100% { background-position: 200% 0; } }
     .logo-wrap { text-align: center; padding: 32px 24px 0; }
     .logo-container {
       display: inline-block; padding: 20px 32px; border-radius: 20px;
-      background: radial-gradient(ellipse at center, rgba(191,95,255,0.18) 0%, rgba(191,95,255,0.06) 50%, transparent 75%);
+      background: radial-gradient(ellipse at center, rgba(var(--accent-rgb),0.18) 0%, rgba(var(--accent-rgb),0.06) 50%, transparent 75%);
     }
-    .logo-container img { height: 60px; width: auto; display: block; margin: 0 auto; filter: drop-shadow(0 0 8px rgba(191,95,255,0.9)) drop-shadow(0 0 20px rgba(191,95,255,0.7)); }
+    .logo-container img { height: 60px; width: auto; display: block; margin: 0 auto; filter: drop-shadow(0 0 8px rgba(var(--accent-rgb),0.9)) drop-shadow(0 0 20px rgba(var(--accent-rgb),0.7)); }
     section { max-width: var(--max); margin: 0 auto; padding: 64px 24px; border-top: 1px solid var(--border); text-align: center; }
     h1 { font-size: clamp(34px,5.5vw,56px); font-weight: 900; line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 20px; }
     h2 { font-size: clamp(26px,4vw,38px); font-weight: 800; line-height: 1.18; letter-spacing: -0.02em; margin-bottom: 16px; }
     .purple {
-      background: linear-gradient(90deg, #d084ff, #bf5fff, #9b30ff, #e0b8ff, #d084ff);
+      background: linear-gradient(90deg, var(--accent2), var(--accent), var(--accent2), #fff, var(--accent));
       background-size: 300% auto; -webkit-background-clip: text; -webkit-text-fill-color: transparent;
       background-clip: text; animation: gradient-flow 4s linear infinite;
     }
@@ -64,26 +65,26 @@
       margin-bottom: 20px; animation: neon-flicker 6s infinite;
     }
     @keyframes neon-flicker {
-      0%,18%,22%,25%,53%,57%,100% { text-shadow: 0 0 12px var(--neon-glow), 0 0 28px var(--neon-glow); opacity: 1; }
+      0%,18%,22%,25%,53%,57%,100% { text-shadow: 0 0 12px rgba(var(--accent-rgb),0.6), 0 0 28px rgba(var(--accent-rgb),0.4); opacity: 1; }
       20%,24%,55% { text-shadow: none; opacity: 0.6; }
     }
     p { color: #aaa; margin-bottom: 16px; } p:last-child { margin-bottom: 0; }
     .subheadline { font-size: clamp(17px,2.5vw,20px); color: #bbb; max-width: 560px; margin: 0 auto 40px; line-height: 1.6; }
     .hero { max-width: var(--max); margin: 0 auto; padding: 8px 24px 48px; text-align: center; }
     .video-wrap { max-width: var(--max); margin: 0 auto; padding: 0 24px 48px; }
-    .video-container { position: relative; width: 100%; padding-top: 56.25%; background: #0a0a12; border-radius: 14px; overflow: hidden; border: 1px solid rgba(191,95,255,0.3); box-shadow: 0 0 48px rgba(191,95,255,0.12); }
+    .video-container { position: relative; width: 100%; padding-top: 56.25%; background: #0a0a12; border-radius: 14px; overflow: hidden; border: 1px solid rgba(var(--accent-rgb),0.3); box-shadow: 0 0 48px rgba(var(--accent-rgb),0.12); }
     .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
     .cta-btn {
       display: block; width: 100%; max-width: 420px; margin: 0 auto; padding: 18px 32px;
       background: linear-gradient(135deg, var(--accent2), var(--neon)); color: #fff;
       font-size: 17px; font-weight: 800; text-decoration: none; border-radius: 12px;
-      border: none; cursor: pointer; box-shadow: 0 0 32px rgba(191,95,255,0.35);
+      border: none; cursor: pointer; box-shadow: 0 0 32px rgba(var(--accent-rgb),0.35);
       transition: transform 0.2s, box-shadow 0.2s; animation: btn-pulse 3s ease-in-out infinite;
     }
-    .cta-btn:hover { transform: translateY(-2px); box-shadow: 0 0 48px rgba(191,95,255,0.55); }
-    @keyframes btn-pulse { 0%,100% { box-shadow: 0 0 32px rgba(191,95,255,0.35); } 50% { box-shadow: 0 0 52px rgba(191,95,255,0.6); } }
+    .cta-btn:hover { transform: translateY(-2px); box-shadow: 0 0 48px rgba(var(--accent-rgb),0.55); }
+    @keyframes btn-pulse { 0%,100% { box-shadow: 0 0 32px rgba(var(--accent-rgb),0.35); } 50% { box-shadow: 0 0 52px rgba(var(--accent-rgb),0.6); } }
     .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px,1fr)); gap: 16px; margin: 32px auto 0; max-width: 640px; }
-    .result-card { background: linear-gradient(135deg, rgba(191,95,255,0.1), rgba(13,13,20,0.9)); border: 1px solid rgba(191,95,255,0.25); border-radius: 14px; padding: 24px 16px; text-align: center; }
+    .result-card { background: linear-gradient(135deg, rgba(var(--accent-rgb),0.1), rgba(13,13,20,0.9)); border: 1px solid rgba(var(--accent-rgb),0.25); border-radius: 14px; padding: 24px 16px; text-align: center; }
     .result-number { font-size: 32px; font-weight: 900; color: var(--neon); line-height: 1.1; margin-bottom: 6px; }
     .result-name { font-size: 14px; color: #ddd; font-weight: 600; margin-bottom: 4px; }
     .result-detail { font-size: 12px; color: var(--muted); margin: 0; }
@@ -94,7 +95,7 @@
     .faq-a { font-size: 15px; color: var(--muted); margin: 0; }
     .popup-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.8); z-index: 1000; align-items: center; justify-content: center; }
     .popup-overlay.active { display: flex; }
-    .popup-box { background: #0d0d14; border: 1px solid rgba(191,95,255,0.35); border-radius: 16px; width: 90%; max-width: 620px; height: 80vh; position: relative; overflow: hidden; }
+    .popup-box { background: #0d0d14; border: 1px solid rgba(var(--accent-rgb),0.35); border-radius: 16px; width: 90%; max-width: 620px; height: 80vh; position: relative; overflow: hidden; }
     .popup-close { position: absolute; top: 12px; right: 14px; font-size: 20px; color: var(--muted); cursor: pointer; z-index: 10; background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 50%; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; }
     footer { text-align: center; padding: 36px 24px; font-size: 13px; color: var(--muted); border-top: 1px solid var(--border); }
 </style>
@@ -104,9 +105,9 @@
   <div class="logo-wrap"><div class="logo-container"><img src="https://storage.googleapis.com/msgsndr/7TOaQsQFacHz01kASmbA/media/687ef9027f24c65e8e3c392e.png" alt="Elevate Operations" /></div></div>
 
   <div class="hero reveal">
-    <span class="eyebrow">REMOTE SALES JOB IN 8 WEEKS</span>
-    <h1>You hate your boss. Your body hurts. Your family is exhausted from watching you suffer through a job that drains everything out of you. But you keep scrolling Instagram seeing people living on beaches, driving cars you want, wearing watches you deserve. That life is not reserved for other people. It is available to you right now through one specific skill that takes 8 to 10 weeks to master.<br><span class="purple">Remote sales income, no boss</span></h1>
-    <p class="subheadline">You go from stuck in a 9-5 that crushes your soul to landing a remote sales role where you earn commission and build real wealth. This works because you are learning the exact system that took me from carpenter to $50,000 a month in five years, now taught directly to people like you.</p>
+    <span class="eyebrow">REMOTE SALES JOB IN 8-10 WEEKS</span>
+    <h1>Leave your job. Start selling remote.<br><span class="purple">Remote income without the 9-5</span></h1>
+    <p class="subheadline">You go from stuck in a job that drains you to making real money selling remotely, with clients who actually value your work. I show you exactly how to land the role and close deals that pay.</p>
   </div>
 
   <div class="video-wrap reveal">
@@ -128,17 +129,17 @@
       <div class="result-card reveal reveal-delay-1">
         <div class="result-number">$10,000</div>
         <div class="result-name">Sarah</div>
-        <div class="result-detail">Made $10,000 in her second month, starting from zero</div>
+        <div class="result-detail">Made $10,000 in her second month starting from zero</div>
       </div>
       <div class="result-card reveal reveal-delay-2">
         <div class="result-number">$25,000</div>
         <div class="result-name">Jordan</div>
-        <div class="result-detail">Grew from $5,000 to $25,000 per month in three months</div>
+        <div class="result-detail">Went from $5,000 to $25,000 per month in three months</div>
       </div>
       <div class="result-card reveal reveal-delay-3">
         <div class="result-number">$50,000</div>
         <div class="result-name">Harry</div>
-        <div class="result-detail">Went from zero to $50,000 monthly commission in six months</div>
+        <div class="result-detail">Built to $50,000 monthly commission in six months</div>
       </div></div>
   </section>
 
@@ -149,25 +150,25 @@
     <div class="faq-list">
       <div class="faq-item reveal">
         <div class="faq-q">I have had sales training before. Why is this different?</div>
-        <div class="faq-a">Most training teaches you theory. This is 1-on-1 coaching where I show you the exact script and system I used to go remote five years ago, plus you get community and group calls where you see others like Sarah and Jordan getting results in real time.</div>
+        <div class="faq-a">Most training teaches you theory. I teach you how to actually land remote sales roles and close deals for commission. Harry went from zero to $50,000 a month in six months because he learned the skill that actually matters, not another framework.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">Is $4,000 too much to spend right now?</div>
-        <div class="faq-a">Harry made $50,000 a month after six months. Jordan went from $5,000 to $25,000 a month. You are not spending $4,000, you are investing it and getting paid back within your first month when you land the job.</div>
+        <div class="faq-q">Four grand feels like a lot. Is it worth it?</div>
+        <div class="faq-a">Jordan paid for the program and made $5,000 in month one, then scaled to $25,000 monthly. Most people drop $4,000 on things they never use. This pays for itself in the first month.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">I think I should just try this by myself first.</div>
-        <div class="faq-a">You already tried crypto, other online businesses, and extra shifts. What changes is having someone who has actually done this show you the exact moves instead of figuring it out alone for months or years.</div>
+        <div class="faq-q">I think I should try this on my own first.</div>
+        <div class="faq-a">You have tried on your own. That is why you are here. The difference between someone making $50,000 a month like Harry and someone still stuck is the roadmap and accountability. That is what you get.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">I do not think sales is for me.</div>
-        <div class="faq-a">You are not the problem. The script and system you have been taught is the problem. I teach you a different approach that works for people in their mid-20s who are tired of their job and want to build real income fast.</div>
+        <div class="faq-q">I don't think it is me. I think the script is the problem.</div>
+        <div class="faq-a">The script matters, but execution matters more. Sarah started with no experience and made $10,000 in month two because she learned how to sell, not just what to say. That skill transfers forever.</div>
       </div></div>
   </section>
 
   <section>
-    <h2 class="reveal">Ready?<br><span class="purple">Remote sales income, no boss</span></h2>
-    <p class="reveal" style="margin-bottom:32px;">You go from stuck in a 9-5 that crushes your soul to landing a remote sales role where you earn commission and build real wealth. This works because you are learning the exact system that took me from carpenter to $50,000 a month in five years, now taught directly to people like you.</p>
+    <h2 class="reveal">Ready?<br><span class="purple">Remote income without the 9-5</span></h2>
+    <p class="reveal" style="margin-bottom:32px;">You go from stuck in a job that drains you to making real money selling remotely, with clients who actually value your work. I show you exactly how to land the role and close deals that pay.</p>
     <div class="reveal"><button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply for the program</button></div>
   </section>
 
