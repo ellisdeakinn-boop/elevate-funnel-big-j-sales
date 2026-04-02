@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Leave your job in eight weeks. — Elevate Operations</title>
+  <title>Trade your 9-5 for a remote sales income. — Elevate Operations</title>
   <link rel="icon" type="image/png" href="https://ellisdeakinn-boop.github.io/elevate-funnel/favicon.png" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
       --bg: #050508; --surface: #0d0d14; --border: #1e1e35;
-      --accent: #2d5016; --accent2: #d4af37; --neon: #2d5016;
-      --accent-rgb: 45,80,22; --accent2-rgb: 212,175,55;
-      --neon-glow: #2d501666; --text: #f0f0f0; --muted: #8888aa; --max: 780px;
+      --accent: #22c55e; --accent2: #fbbf24; --neon: #22c55e;
+      --accent-rgb: 34,197,94; --accent2-rgb: 251,191,36;
+      --neon-glow: #22c55e66; --text: #f0f0f0; --muted: #8888aa; --max: 780px;
     }
     html { scroll-behavior: smooth; }
     body {
@@ -98,30 +98,72 @@
     .popup-box { background: #0d0d14; border: 1px solid rgba(var(--accent-rgb),0.35); border-radius: 16px; width: 90%; max-width: 620px; height: 80vh; position: relative; overflow: hidden; }
     .popup-close { position: absolute; top: 12px; right: 14px; font-size: 20px; color: var(--muted); cursor: pointer; z-index: 10; background: rgba(255,255,255,0.05); border: 1px solid var(--border); border-radius: 50%; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; }
     footer { text-align: center; padding: 36px 24px; font-size: 13px; color: var(--muted); border-top: 1px solid var(--border); }
+    .steps-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); gap: 20px; margin: 36px auto 0; max-width: 720px; }
+    .step-card { background: rgba(var(--accent-rgb),0.06); border: 1px solid rgba(var(--accent-rgb),0.2); border-radius: 16px; padding: 28px 20px; text-align: center; }
+    .step-num { font-size: 28px; font-weight: 900; color: var(--accent); line-height: 1; margin-bottom: 12px; }
+    .step-title { font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+    .step-desc { font-size: 14px; color: var(--muted); margin: 0; }
+    .testimonials-list { display: flex; flex-direction: column; gap: 20px; margin: 36px auto 0; max-width: 640px; text-align: left; }
+    .testimonial-card { background: rgba(var(--accent-rgb),0.05); border: 1px solid rgba(var(--accent-rgb),0.18); border-radius: 16px; padding: 28px 24px; }
+    .testimonial-meta { display: flex; gap: 16px; margin-bottom: 16px; }
+    .t-before, .t-after { flex: 1; }
+    .t-label { font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 4px; }
+    .t-before .t-label { color: var(--muted); }
+    .t-after .t-label { color: var(--accent); }
+    .t-text { font-size: 14px; color: var(--text); }
+    .t-quote { font-size: 15px; color: #ccc; font-style: italic; border-left: 3px solid var(--accent); padding-left: 14px; margin: 14px 0 0; line-height: 1.6; }
+    .t-name { font-size: 13px; font-weight: 700; color: var(--muted); margin-top: 10px; }
+    .about-block { max-width: 640px; margin: 36px auto 0; text-align: left; }
+    .about-tagline { font-size: clamp(20px,3vw,28px); font-weight: 800; line-height: 1.25; margin-bottom: 18px; text-align: center; }
+    .about-story { font-size: 16px; color: #bbb; line-height: 1.7; margin-bottom: 20px; }
+    .cred-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .cred-list li { display: flex; align-items: flex-start; gap: 10px; font-size: 15px; color: var(--text); }
+    .cred-list li::before { content: "✓"; color: var(--accent); font-weight: 800; flex-shrink: 0; margin-top: 1px; }
+    .fit-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 36px auto 0; max-width: 680px; text-align: left; }
+    @media (max-width: 560px) { .fit-grid { grid-template-columns: 1fr; } }
+    .fit-col { border-radius: 16px; padding: 24px 20px; }
+    .fit-yes { background: rgba(34,197,94,0.07); border: 1px solid rgba(34,197,94,0.25); }
+    .fit-no  { background: rgba(239,68,68,0.07);  border: 1px solid rgba(239,68,68,0.2);  }
+    .fit-col h3 { font-size: 14px; font-weight: 800; margin-bottom: 14px; letter-spacing: 0.02em; }
+    .fit-yes h3 { color: #4ade80; }
+    .fit-no  h3 { color: #f87171; }
+    .fit-list { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .fit-list li { font-size: 14px; color: #ccc; display: flex; align-items: flex-start; gap: 8px; line-height: 1.5; }
+    .fit-yes .fit-list li::before { content: "✓"; color: #4ade80; font-weight: 800; flex-shrink: 0; }
+    .fit-no  .fit-list li::before { content: "✗"; color: #f87171; font-weight: 800; flex-shrink: 0; }
+    .authority-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(140px,1fr)); gap: 20px; margin: 0 auto; max-width: 680px; }
+    .authority-item { text-align: center; }
+    .authority-number { font-size: clamp(32px,5vw,48px); font-weight: 900; color: var(--accent); line-height: 1; margin-bottom: 6px; }
+    .authority-label { font-size: 13px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; }
+    .guarantee-block { max-width: 580px; margin: 0 auto; background: rgba(var(--accent-rgb),0.07); border: 2px solid rgba(var(--accent-rgb),0.35); border-radius: 20px; padding: 40px 32px; text-align: center; }
+    .guarantee-icon { font-size: 36px; margin-bottom: 16px; }
+    .guarantee-text { font-size: 16px; color: #ccc; line-height: 1.7; margin: 12px 0 0; }
 </style>
 </head>
 <body>
   <div class="spots-bar">Only <span>3 client spots</span> available this month</div>
   <div class="logo-wrap"><div class="logo-container"><img src="https://storage.googleapis.com/msgsndr/7TOaQsQFacHz01kASmbA/media/687ef9027f24c65e8e3c392e.png" alt="Elevate Operations" /></div></div>
 
+  <!-- HERO -->
   <div class="hero reveal">
-    <span class="eyebrow">REMOTE SALES JOBS FOR 9-5 WORKERS</span>
-    <h1>Leave your job in eight weeks.<br><span class="purple">Remote sales income, no boss</span></h1>
-    <p class="subheadline">You go from stuck in a job that drains you to earning real commission checks from home. We show you the exact path because I walked it myself five years ago.</p>
+    <span class="eyebrow">REMOTE SALES JOB IN 8 WEEKS</span>
+    <h1>Trade your 9-5 for a remote sales income.<br><span class="purple">Remote job plus commission income</span></h1>
+    <p class="subheadline">You go from stuck in an office that drains you to working remotely in sales with real commission checks. You learn the exact skill that pays, and your body stops hurting from a job you hate.</p>
   </div>
 
+  <!-- VSL -->
   <div class="video-wrap reveal">
     <div class="video-container">
       <iframe src="https://fast.wistia.net/embed/iframe/REPLACE_VSL_VIDEO_ID?videoFoam=true" title="VSL" allow="autoplay; fullscreen" allowfullscreen></iframe>
     </div>
   </div>
 
+  <!-- CTA #1 -->
   <section style="border-top:none;padding-top:0;padding-bottom:56px;">
-    <div class="reveal">
-      <button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply for the program</button>
-    </div>
+    <div class="reveal"><button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply to the program</button></div>
   </section>
 
+  <!-- QUICK PROOF STATS -->
   <section>
     <span class="eyebrow reveal">Client Results</span>
     <h2 class="reveal">Real clients. <span class="purple">Real results.</span></h2>
@@ -129,20 +171,142 @@
       <div class="result-card reveal reveal-delay-1">
         <div class="result-number">$10,000</div>
         <div class="result-name">Sarah</div>
-        <div class="result-detail">Made this in her second month starting from zero</div>
+        <div class="result-detail">Earned in month two, starting from zero</div>
       </div>
       <div class="result-card reveal reveal-delay-2">
         <div class="result-number">$25,000</div>
         <div class="result-name">Jordan</div>
-        <div class="result-detail">Now earning this monthly in commission after three months</div>
+        <div class="result-detail">Monthly commission after three months in program</div>
       </div>
       <div class="result-card reveal reveal-delay-3">
         <div class="result-number">$50,000</div>
         <div class="result-name">Harry</div>
-        <div class="result-detail">Reached this monthly commission level in six months</div>
+        <div class="result-detail">Monthly commission after six months in program</div>
       </div></div>
   </section>
 
+  <!-- HOW IT WORKS -->
+  
+  <section>
+    <span class="eyebrow reveal">How It Works</span>
+    <h2 class="reveal">Three steps. <span class="purple">Zero guesswork.</span></h2>
+    <div class="steps-grid">
+      <div class="step-card reveal">
+        <div class="step-num">1</div>
+        <div class="step-title">Land the remote sales job</div>
+        <p class="step-desc">We show you how to position yourself and get hired at a company that pays salary plus commission, remotely, within the first 2-3 weeks.</p>
+      </div>
+      <div class="step-card reveal">
+        <div class="step-num">2</div>
+        <div class="step-title">Learn the skill that pays</div>
+        <p class="step-desc">One-on-one coaching teaches you the exact close, the objection handling, and the mindset that separates people making $5k from those making $50k monthly.</p>
+      </div>
+      <div class="step-card reveal">
+        <div class="step-num">3</div>
+        <div class="step-title">Build your income stream</div>
+        <p class="step-desc">By week 8-10, you have a remote job, real commission checks coming in, and the foundation to scale to $25k, $50k, or beyond per month.</p>
+      </div></div>
+  </section>
+
+  <!-- TESTIMONIALS -->
+  
+  <section>
+    <span class="eyebrow reveal">Client Stories</span>
+    <h2 class="reveal">Before. <span class="purple">After.</span></h2>
+    <div class="testimonials-list">
+      <div class="testimonial-card reveal">
+        <div class="testimonial-meta">
+          <div class="t-before"><div class="t-label">Before</div><div class="t-text">I was in a job I hated, making okay money but feeling completely drained and stuck.</div></div>
+          <div class="t-after"><div class="t-label">After</div><div class="t-text">Made $10,000 in her second month in the program, starting from zero.</div></div>
+        </div>
+        <div class="t-quote">"I went from zero to $10k in month two. This was not theory. This was real money and a real remote job."</div>
+        <div class="t-name">— Sarah</div>
+      </div>
+      <div class="testimonial-card reveal">
+        <div class="testimonial-meta">
+          <div class="t-before"><div class="t-label">Before</div><div class="t-text">I was stuck answering to a boss every day, going to an office that made me feel unappreciated and exhausted.</div></div>
+          <div class="t-after"><div class="t-label">After</div><div class="t-text">Started at $5,000 monthly in commission and scaled to $25,000 per month within three months.</div></div>
+        </div>
+        <div class="t-quote">"I came in making nothing in sales. Three months later I am at $25k a month and I work from home."</div>
+        <div class="t-name">— Jordan</div>
+      </div>
+      <div class="testimonial-card reveal">
+        <div class="testimonial-meta">
+          <div class="t-before"><div class="t-label">Before</div><div class="t-text">I was desperate for change. I had tried everything else and was still trapped in a 9-5 that was destroying me.</div></div>
+          <div class="t-after"><div class="t-label">After</div><div class="t-text">Started at zero and reached $50,000 monthly in commission after six months in the program.</div></div>
+        </div>
+        <div class="t-quote">"Six months ago I had no remote income. Now I make $50k a month. This actually works."</div>
+        <div class="t-name">— Harry</div>
+      </div></div>
+  </section>
+
+  <!-- CTA #2 -->
+  <section style="padding-top:0;border-top:none;">
+    <div class="reveal"><button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply to the program</button></div>
+  </section>
+
+  <!-- ABOUT THE COACH -->
+  
+  <section>
+    <span class="eyebrow reveal">About</span>
+    <div class="about-block reveal">
+      <div class="about-tagline">I help 9-5ers escape to remote sales jobs and build real commission income within 8-10 weeks.</div>
+      <p class="about-story">I was in a 9-5 myself, so I got a job in sales remotely and spent a year learning what actually works. I went all in, left carpentry behind, moved to Marbella, and spent the last five years building this skill and teaching others the exact path to get there. I have watched people go from zero to $50k monthly because they had someone who already knew the way.</p>
+      <ul class="cred-list"><li>5 years building remote sales income from zero</li><li>47+ clients moved to remote sales jobs</li><li>Clients scaling from $5k to $50k+ monthly in commission</li></ul>
+    </div>
+  </section>
+
+  <!-- AUTHORITY MARKERS -->
+  
+  <section>
+    <div class="authority-grid">
+      <div class="authority-item reveal">
+        <div class="authority-number">5</div>
+        <div class="authority-label">years building remote sales from zero</div>
+      </div>
+      <div class="authority-item reveal">
+        <div class="authority-number">47+</div>
+        <div class="authority-label">clients placed in remote sales jobs</div>
+      </div>
+      <div class="authority-item reveal">
+        <div class="authority-number">$50,000</div>
+        <div class="authority-label">monthly income clients have reached</div>
+      </div>
+      <div class="authority-item reveal">
+        <div class="authority-number">8-10</div>
+        <div class="authority-label">weeks to first remote income</div>
+      </div></div>
+  </section>
+
+  <!-- WHO IS THIS FOR -->
+  
+  <section>
+    <span class="eyebrow reveal">Is This For You?</span>
+    <h2 class="reveal">Read this <span class="purple">before you book.</span></h2>
+    <div class="fit-grid reveal">
+      <div class="fit-col fit-yes">
+        <h3>This is for you if...</h3>
+        <ul class="fit-list"><li>You make over $70k but your job drains you and you want out within the next two months.</li><li>You are in your mid-20s and you see the lifestyle online, beaches and fancy watches, and you want to actually build that.</li><li>You have tried crypto and side hustles and you want a real income stream that actually pays consistent money.</li><li>You are remote or you want to be remote, and you know sales commission is the fastest way to real income.</li><li>You want to leave your boss and the office behind but you need the money to be real, not a hope.</li></ul>
+      </div>
+      <div class="fit-col fit-no">
+        <h3>This is NOT for you if...</h3>
+        <ul class="fit-list"><li>You want quick money with no work. This is 8-10 weeks of focused effort to build a real skill and real income.</li><li>You think the problem is always the script or someone else. This requires you to own your results and your effort.</li><li>You are not willing to invest $4,000 upfront to change your life. The investment filters in the right people.</li></ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- GUARANTEE -->
+  
+  <section>
+    <span class="eyebrow reveal">Our Guarantee</span>
+    <div class="guarantee-block reveal">
+      <div class="guarantee-icon">✓</div>
+      <h2 style="margin-bottom:0;">You get results. <span class="purple">Or you don't pay.</span></h2>
+      <p class="guarantee-text">If you follow the program and do not land a remote sales job within 8-10 weeks, we work with you until you do. Your remote income is non-negotiable.</p>
+    </div>
+  </section>
+
+  <!-- FAQ -->
   
   <section>
     <span class="eyebrow reveal">Common Questions</span>
@@ -150,26 +314,27 @@
     <div class="faq-list">
       <div class="faq-item reveal">
         <div class="faq-q">I have had sales training before. Why is this different?</div>
-        <div class="faq-a">Most training teaches you theory. This is 1-on-1 coaching where I show you the exact remote sales systems that work now, plus group calls and community. Harry started at zero and hits 50k monthly in six months because he got real implementation, not lectures.</div>
+        <div class="faq-a">Most training teaches scripts and tactics. This teaches you how to actually land a remote job in sales first, then build real commission income. Sarah made $10,000 in her second month because she had both the job and the skill, not just theory.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">This costs too much. Can I just try this by myself first?</div>
-        <div class="faq-a">You could, but you will waste months figuring out what Sarah learned in week two. She made 10k in her second month because she had direct guidance on what actually converts. Solo costs you time and lost income.</div>
+        <div class="faq-q">Four thousand dollars is a lot. Why should I invest that?</div>
+        <div class="faq-a">Jordan went from zero to $5,000 monthly in commission within weeks, now at $25,000 a month. That investment paid for itself on day one. You are paying for direct access to someone who did this five years ago and has helped dozens get there.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">I think the problem is my script, not my skills.</div>
-        <div class="faq-a">The script matters, but your approach matters more. Jordan went from 5k to 25k monthly in three months not because she changed scripts but because she changed how she sells. We fix both.</div>
+        <div class="faq-q">I think I can figure this out on my own.</div>
+        <div class="faq-a">You could try, but you would be guessing on the job market, the script, and the close. Harry started at zero and hit $50,000 monthly because he had someone who already made the mistakes and knew exactly what works in the current market.</div>
       </div>
       <div class="faq-item reveal">
-        <div class="faq-q">Is this actually just for sales jobs or remote work in general?</div>
-        <div class="faq-a">Remote sales jobs specifically. That is where the real commission money is and where you can actually leave your 9-5. This is not about picking up shifts or side gigs.</div>
+        <div class="faq-q">I don't think it is me. I think it is the script.</div>
+        <div class="faq-a">The script matters, but the real problem is usually how you position yourself to land the remote job in the first place. Once you have the job and learn the actual skill, the script becomes secondary.</div>
       </div></div>
   </section>
 
+  <!-- FINAL CTA -->
   <section>
-    <h2 class="reveal">Ready?<br><span class="purple">Remote sales income, no boss</span></h2>
-    <p class="reveal" style="margin-bottom:32px;">You go from stuck in a job that drains you to earning real commission checks from home. We show you the exact path because I walked it myself five years ago.</p>
-    <div class="reveal"><button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply for the program</button></div>
+    <h2 class="reveal">Ready?<br><span class="purple">Remote job plus commission income</span></h2>
+    <p class="reveal" style="margin-bottom:32px;">You go from stuck in an office that drains you to working remotely in sales with real commission checks. You learn the exact skill that pays, and your body stops hurting from a job you hate.</p>
+    <div class="reveal"><button class="cta-btn" onclick="window.open('fanbasis.com', '_blank')">Apply to the program</button></div>
   </section>
 
   <footer>&copy; 2026 Elevate Operations. All rights reserved.</footer>
